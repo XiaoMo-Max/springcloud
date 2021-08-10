@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/childProject/childProject.iml" filepath="$PROJECT_DIR$/childProject/childProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/configserver.iml" filepath="$PROJECT_DIR$/config-server/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-data-service/productdataservice.iml" filepath="$PROJECT_DIR$/product-data-service/productdataservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-view-client-feign/productviewclientfeign.iml" filepath="$PROJECT_DIR$/product-view-client-feign/productviewclientfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-view-service-ribbon/productviewserviceribbon.iml" filepath="$PROJECT_DIR$/product-view-service-ribbon/productviewserviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>

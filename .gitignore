@@ -1,0 +1,5 @@
+# Project exclude paths
+/childProject/target/
+/product-data-service/target/
+/product-view-client-feign/target/
+/product-view-service-ribbon/target/
